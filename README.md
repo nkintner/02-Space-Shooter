@@ -11,4 +11,4 @@ Which features you included
 
 ## Future Development
 
-## Created by
+## Created by Noah Kintner
